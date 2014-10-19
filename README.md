@@ -1,4 +1,4 @@
-# spotify-cli
+# spotify-cmd
 
 A command-line interface for controlling Spotify.  
 
