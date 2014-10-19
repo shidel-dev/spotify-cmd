@@ -1,0 +1,31 @@
+{
+  "name": "spotify-cli",
+  "description": "A command-line interface for controlling spotify.  Built using javascript for automation for OSX 10.10",
+  "version": "0.1.0",
+  "homepage": "https://github.com/shidel-dev/spotify-cli",
+  "author": {
+    "name": "shidel.dev",
+    "email": "joeshidel@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shidel-dev/spotify-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shidel-dev/spotify-cli/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/shidel-dev/spotify-cli/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/spotifyCli",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt-contrib-jshint": "~0.6.4"
+  },
+  "keywords": ["spotify", "cli", "osx", "automation"]
+}
