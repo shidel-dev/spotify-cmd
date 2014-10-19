@@ -21,11 +21,23 @@
     }
   ],
   "main": "lib/spotifyCli",
+  "preferGlobal": "true",
+  "bin": {
+    "spotify" : "lib/spotifyCli.js"
+  },
   "engines": {
     "node": ">= 0.8.0"
   },
   "devDependencies": {
     "grunt-contrib-jshint": "~0.6.4"
   },
-  "keywords": ["spotify", "cli", "osx", "automation"]
+  "keywords": [
+    "spotify",
+    "cli",
+    "osx",
+    "automation"
+  ],
+  "dependencies": {
+    "commander": "~2.4.0"
+  }
 }
