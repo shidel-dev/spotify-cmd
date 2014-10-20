@@ -1,7 +1,7 @@
 {
   "name": "spotify-cmd",
   "description": "A command-line interface for controlling spotify.  Built using javascript for automation for OSX 10.10",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "homepage": "https://github.com/shidel-dev/spotify-cmd",
   "author": {
     "name": "shidel.dev",
