@@ -20,10 +20,10 @@
       "url": "https://github.com/shidel-dev/spotify-cli/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/spotifyCli.js",
+  "main": "lib/spotifyCmd.js",
   "preferGlobal": "true",
   "bin": {
-    "spotify" : "lib/spotifyCli.js"
+    "spotify" : "lib/spotifyCmd.js"
   },
   "engines": {
     "node": ">= 0.8.0"
