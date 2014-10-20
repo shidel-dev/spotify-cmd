@@ -1,12 +1,18 @@
 # spotify-cmd
 
-A command-line interface for controlling Spotify.  
+A command-line interface for controlling Spotify.
 
 Built using javascript for automation for OSX 10.10
 
 **see:**
 https://developer.apple.com/library/mac/releasenotes/InterapplicationCommunication/RN-JavaScriptForAutomation/index.html
 
+
+##installation
+
+```npm install spotify-cmd -g```
+
+##usage
 ```
   Usage: spotify [options] [command]
 
